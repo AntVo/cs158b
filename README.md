@@ -18,7 +18,8 @@ Welcome to **Big Data.IO**, your go-to resource for structured and progressive l
 - **Specialization Filtering:** Easily filter and focus on specific areas of interest with our specialization filtering feature, allowing you to tailor your learning experience.
 
 - **Social Media Integration & Sharing Progress:** Connect with the community, share your progress, and engage with social media integration, fostering collaboration and knowledge sharing.
-- 
+
+
 ## Contributors
 - **Kyle Domen**
 - **Antoine Vo**
