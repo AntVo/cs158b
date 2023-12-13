@@ -11,12 +11,13 @@ Welcome to **Big Data.IO**, your go-to resource for structured and progressive l
 
 ## Features
 
-- **Structured Learning Paths:** Navigate through carefully curated learning paths that take you from the basics to advanced topics, ensuring a well-rounded understanding of big data concepts.
+- **Learning Modules:** Navigate through carefully curated learning paths that take you from the basics to advanced topics, ensuring a well-rounded understanding of big data concepts.
 
-- **Interactive Content:** Engage with hands-on exercises, quizzes, and real-world scenarios that reinforce your learning and provide practical experience.
+- **Interactive Modules - Quizzes Section:** Engage with hands-on exercises, quizzes, and real-world scenarios that reinforce your learning and provide practical experience.
 
-- **Collaborative Environment:** Connect with fellow learners, share insights, and participate in discussions to enhance your understanding of big data and analytics.
+- **Specialization Filtering:** Easily filter and focus on specific areas of interest with our specialization filtering feature, allowing you to tailor your learning experience.
 
+- **Social Media Integration & Sharing Progress:** Connect with the community, share your progress, and engage with social media integration, fostering collaboration and knowledge sharing.
 ## Contributors
 
 - **Kyle Domen**
