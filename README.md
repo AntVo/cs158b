@@ -26,16 +26,7 @@ Welcome to **Big Data.IO**, your go-to resource for structured and progressive l
 - **Bao Nguyen**
 - **Sai Manaswini Avadhanam**
 
-## Milestone Details
-
-**Date:** December 12, 2023  
-**Course:** CS 160  
-**Group:** Group 2  
-**Milestone:** Final Milestone
-
 
 ## Feedback and Contributions
 
 We value your feedback! If you have suggestions, find issues, or want to contribute to the project, please feel free to reach out to the contributors listed above.
-
-Happy learning! 🚀
