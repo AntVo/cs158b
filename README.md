@@ -18,8 +18,8 @@ Welcome to **Big Data.IO**, your go-to resource for structured and progressive l
 - **Specialization Filtering:** Easily filter and focus on specific areas of interest with our specialization filtering feature, allowing you to tailor your learning experience.
 
 - **Social Media Integration & Sharing Progress:** Connect with the community, share your progress, and engage with social media integration, fostering collaboration and knowledge sharing.
+- 
 ## Contributors
-
 - **Kyle Domen**
 - **Antoine Vo**
 - **Ivana Chen**
@@ -33,12 +33,6 @@ Welcome to **Big Data.IO**, your go-to resource for structured and progressive l
 **Group:** Group 2  
 **Milestone:** Final Milestone
 
-## Getting Started
-
-1. Visit [Big Data.IO](https://chris-tseng.com/classes/cs160/sec1/team2).
-2. Explore the available learning paths and choose the one that aligns with your current knowledge level.
-3. Dive into interactive content, participate in discussions, and collaborate with your peers.
-4. Track your progress and celebrate your achievements as you advance through the learning journey.
 
 ## Feedback and Contributions
 
